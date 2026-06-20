@@ -1,0 +1,100 @@
+# Snow — Generative Engine Optimization Map
+
+> Snow is a men's jewelry brand with a focus on driving high sales and profits through an e-commerce platform. The brand name 'Snow' suggests a clean, cool, and possibly premium aesthetic. The business aims to create a conversion-optimized online store that attracts male jewelry buyers and maximizes revenue.
+
+---
+
+## Pages
+
+### בית
+https://snow-da41f894.zappy5.app
+מותג תכשיטי הגברים Snow מביא את &#39;big snow american dream&#39; לחיים עם עיצובים נקיים ויוקרתיים. קנה עכשיו והפוך כל רגע לבלתי נשכח. משלוח מהיר והחזרות קלות.
+
+### הסיפור שלנו
+https://snow-da41f894.zappy5.app/brand-story
+גלה את המסע של Snow, מותג תכשיטי גברים שמונע על ידי &#39;snow summit tickets&#39; לחדשנות. הצטרף לחזון שלנו ועצב את הסגנון שלך עם משמעות. קרא עוד ותתאהב.
+
+### אומנות
+https://snow-da41f894.zappy5.app/craftsmanship
+ב-Snow, כל תכשיט מעוצב בדיוק מושלם כמו &#39;snow mountain ranch&#39;. חווה את האיכות שמאחורי כל פריט ושדרג את המראה שלך עוד היום. הצטרף למעגל האיכות.
+
+### צור קשר
+https://snow-da41f894.zappy5.app/contact
+מוכן להגשים את &#39;big snow american dream&#39;? צור קשר עם צוות Snow עוד היום לקבלת ייעוץ אישי והזמנות מיוחדות. אנחנו כאן כדי להקשיב ולעזור לך לזהור.
+
+### Products
+https://snow-da41f894.zappy5.app/products
+המוצרים שלנו - Snow
+
+### Cart
+https://snow-da41f894.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://snow-da41f894.zappy5.app/checkout
+תשלום
+
+### Login
+https://snow-da41f894.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://snow-da41f894.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://snow-da41f894.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://snow-da41f894.zappy5.app/product/:slug
+פרטי המוצר - Snow
+
+### Category
+https://snow-da41f894.zappy5.app/category/:slug
+מוצרים - Snow
+
+## Legal & Policy
+
+### Privacy Policy
+https://snow-da41f894.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://snow-da41f894.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://snow-da41f894.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Snow
+Snow is a men's jewelry brand with a focus on driving high sales and profits through an e-commerce platform. The brand name 'Snow' suggests a clean, cool, and possibly premium aesthetic. The business aims to create a conversion-optimized online store that attracts male jewelry buyers and maximizes revenue.
+
+## Target Audience
+- גברים המחפשים תכשיטים
+- גברים מודעים לאופנה
+- רוכשי מתנות לגברים
+
+## Industry
+Men's Jewelry E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://snow-da41f894.zappy5.app/sitemap.xml
+- Robots: https://snow-da41f894.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://snow-da41f894.zappy5.app/llms-full.txt
+- Products (JSON): https://snow-da41f894.zappy5.app/products.json
+- Products (Google Merchant RSS): https://snow-da41f894.zappy5.app/product-feed.xml
