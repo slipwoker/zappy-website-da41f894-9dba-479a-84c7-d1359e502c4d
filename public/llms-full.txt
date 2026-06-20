@@ -2,13 +2,13 @@
 
 Snow is a men's jewelry brand with a focus on driving high sales and profits through an e-commerce platform. The brand name 'Snow' suggests a clean, cool, and possibly premium aesthetic. The business aims to create a conversion-optimized online store that attracts male jewelry buyers and maximizes revenue.
 
-Source: https://snow-da41f894.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הגש את החלום האמריקאי עם תכשיטי יוקרה — Snow
 
-URL: https://snow-da41f894.zappy5.app
+URL: https://example.com
 Description: מותג תכשיטי הגברים Snow מביא את &#39;big snow american dream&#39; לחיים עם עיצובים נקיים ויוקרתיים. קנה עכשיו והפוך כל רגע לבלתי נשכח. משלוח מהיר והחזרות קלות.
 
 הגש את החלום האמריקאי עם תכשיטי יוקרה — Snow
@@ -500,7 +500,7 @@ Description: מותג תכשיטי הגברים Snow מביא את &#39;big snow
 
 ## הסיפור שמאחורי &#39;big snow american dream&#39; — Snow
 
-URL: https://snow-da41f894.zappy5.app/brand-story
+URL: https://example.com/brand-story
 Description: גלה את המסע של Snow, מותג תכשיטי גברים שמונע על ידי &#39;snow summit tickets&#39; לחדשנות. הצטרף לחזון שלנו ועצב את הסגנון שלך עם משמעות. קרא עוד ותתאהב.
 
 הסיפור שמאחורי 'big snow american dream' — Snow
@@ -944,7 +944,7 @@ Description: גלה את המסע של Snow, מותג תכשיטי גברים ש
 
 ## אומנות ברמה של snow summit lift tickets — Snow
 
-URL: https://snow-da41f894.zappy5.app/craftsmanship
+URL: https://example.com/craftsmanship
 Description: ב-Snow, כל תכשיט מעוצב בדיוק מושלם כמו &#39;snow mountain ranch&#39;. חווה את האיכות שמאחורי כל פריט ושדרג את המראה שלך עוד היום. הצטרף למעגל האיכות.
 
 אומנות ברמה של snow summit lift tickets — Snow
@@ -1364,7 +1364,7 @@ Description: ב-Snow, כל תכשיט מעוצב בדיוק מושלם כמו &#
 
 ## צור קשר והתחל את המסע ל-snow mountain ranch — Snow
 
-URL: https://snow-da41f894.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכן להגשים את &#39;big snow american dream&#39;? צור קשר עם צוות Snow עוד היום לקבלת ייעוץ אישי והזמנות מיוחדות. אנחנו כאן כדי להקשיב ולעזור לך לזהור.
 
 צור קשר והתחל את המסע ל-snow mountain ranch — Snow
@@ -1763,7 +1763,7 @@ Snow פועלת כאיקומרס פרימיום עם שירות לקוחות י�
 
 ## מוצרים
 
-URL: https://snow-da41f894.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Snow
 
 מוצרים - Snow
@@ -2021,7 +2021,7 @@ Description: המוצרים שלנו - Snow
 
 ## עגלת קניות
 
-URL: https://snow-da41f894.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Snow
@@ -2255,7 +2255,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://snow-da41f894.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Snow
@@ -2675,7 +2675,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://snow-da41f894.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Snow
@@ -2916,7 +2916,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://snow-da41f894.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Snow
@@ -3312,7 +3312,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://snow-da41f894.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Snow
@@ -3570,7 +3570,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://snow-da41f894.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Snow
@@ -3857,7 +3857,7 @@ Snow מחויבת לשביעות רצון לקוחותיה. מדיניות זו 
 
 ## פרטי המוצר
 
-URL: https://snow-da41f894.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Snow
 
 פרטי המוצר - Snow
@@ -4093,7 +4093,7 @@ Description: פרטי המוצר - Snow
 
 ## מוצרים
 
-URL: https://snow-da41f894.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Snow
 
 מוצרים - Snow
@@ -4353,7 +4353,7 @@ Description: מוצרים - Snow
 
 ## מדיניות פרטיות
 
-URL: https://snow-da41f894.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4631,7 +4631,7 @@ Snow ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו�
 
 ## הצהרת נגישות
 
-URL: https://snow-da41f894.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4918,7 +4918,7 @@ Snow מחויבת להנגיש את השירותים לכלל הציבור. אנ
 
 ## תנאי שימוש
 
-URL: https://snow-da41f894.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
